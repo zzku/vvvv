@@ -1,9 +1,9 @@
 {
   "build": {
     "env": {
-      "API_ID": "YOUR_API_ID",
-      "API_HASH": "YOUR_API_HASH",
-      "BOT_TOKEN": "YOUR_BOT_TOKEN"
+      "API_ID": "10285091",
+      "API_HASH": "6c20541ea2987b16a8760fb285c29092",
+      "BOT_TOKEN": "5557366256:AAHlhrNJ3KFMUhi6h9sE-tVm58drMVo8loc"
     }
   },
   "start": "python main.py"
